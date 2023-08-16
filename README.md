@@ -1,6 +1,9 @@
 # ManueFBS
 Hola !
-Soy Manuel y...
+Soy Manuel !!!
+
+https://github.com/ManuelFBS/ManueFBS/issues/1#issue-1853592768
+
 Este es mi README personal.
 
 Mi nombre es: Manuel Felipe Borrego Sterling.
