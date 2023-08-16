@@ -2,7 +2,7 @@
 Hola !
 Soy Manuel !!!
 
-https://github.com/ManuelFBS/ManueFBS/issues/1#issue-1853592768
+![Imagen para git](https://github.com/ManuelFBS/ManueFBS/assets/40925225/4e74242f-8e81-4d92-9f25-5c7617cd5d84)
 
 Este es mi README personal.
 
